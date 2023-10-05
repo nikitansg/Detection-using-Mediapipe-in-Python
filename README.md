@@ -15,16 +15,18 @@ Facial landmark detection is a crucial task in computer vision, with various app
 3. Run the provided code to start detecting facial landmarks
 
 ## Usage
-Modify the provided code to suit your specific use case or integrate the facial landmarks detection into your own project.
+Modify the provided code to suit your specific use case or integrate the facial landmark detection into your own project.
 
 ## Contributing
-Contributions are welcome! If you want to improve the project, submit a pull request, or open an issue to discuss potential enhancements or bug fixes.
+Contributions are welcome! If you want to improve the project, submit a pull request or open an issue to discuss potential enhancements or bug fixes.
 
 ## Acknowledgments
 Thanks to the MediaPipe team for providing an excellent library for facial landmark detection!
 
 
-
+## Input Image
 ![29](https://github.com/nikitansg/Detection-using-Mediapipe-in-Python/assets/138892560/c16a22d2-1895-4bee-88e1-33fbbe87c5fd)
+
+## Output 
 [image_1](https://github.com/nikitansg/Detection-using-Mediapipe-in-Python/assets/138892560/242b41b5-9dae-428f-bc73-b8d57d0fd7d2)
 
